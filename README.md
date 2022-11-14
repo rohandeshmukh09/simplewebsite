@@ -13,7 +13,7 @@
 ✔️ thumbnails 🏆\
 ✔️ flexbox.html\
 ✔️ grid.html\
-✔️ position.html
+✔️ position.html\
 ✔️ index.html 🏆\
 
 To view a live example, **[click here](https://rohandeshmukh09.github.io/simplewebsite/)**
