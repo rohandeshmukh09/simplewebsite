@@ -19,3 +19,6 @@
 ✔️ index.html 🏆\
 
 To view a live example, **[click here](https://rohandeshmukh09.github.io/simplewebsite/)**
+# References
+
+Based on https://github.com/SuperSimpleDev
