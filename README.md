@@ -1,6 +1,6 @@
 <img width="80%" align="center" src="channel-pictures\htmlcssjs.jpeg" alt="html css js template mockup" /> <br/>
 
-<h1 align="center"> simple website uisng HTML CSS and Java Script 🔥 </h1>
+<h1 align="center"> simple website uisng HTML CSS 🔥 </h1>
 
 :star: Star us on GitHub — it helps!
 
